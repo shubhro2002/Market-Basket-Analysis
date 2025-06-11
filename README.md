@@ -19,7 +19,7 @@ This project focuses on mining association rules from transactional datasets usi
 ## 🛠 Technologies Used
 
 - Python
-- `mlxtend`
+- `mlxtend` and custom implementation
 - Jupyter Notebook for experimentation and demonstration
 
 
@@ -35,6 +35,3 @@ This project focuses on mining association rules from transactional datasets usi
    ```bash
    pip install -r requirements.txt
 4. Run the Jupyter notebooks or Python scripts to start mining itemsets and generating rules
-
-## 📬 Contact
-For questions, suggestions, or collaboration, feel free to open an issue or connect via GitHub.
